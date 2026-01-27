@@ -1,0 +1,83 @@
+{
+    "success": true,
+    "data": {
+      "stores": [
+        {
+          "id": "metro",
+          "name": "METRO",
+          "logo_url": "https://cdn.petrushka.ru/partners/logos/metro.svg",
+          "delivery_info": {
+            "type": "nearest_today",
+            "message": "Ближайшая доставка сегодня 21:00–23:00",
+            "raw_data": {
+              "date": "2026-01-27",
+              "time_slot": {
+                "start": "21:00",
+                "end": "23:00"
+              }
+            }
+          },
+          "external_url": "https://metro-express.ru/delivery?affiliate_id=petrushka_green"
+        },
+        {
+          "id": "ashan",
+          "name": "Ашан",
+          "logo_url": "https://cdn.petrushka.ru/partners/logos/ashan.svg",
+          "delivery_info": {
+            "type": "nearest_today",
+            "message": "Ближайшая доставка сегодня 18:00–20:00",
+            "raw_data": {
+              "date": "2026-01-27",
+              "time_slot": {
+                "start": "18:00",
+                "end": "20:00"
+              }
+            }
+          },
+          "external_url": "https://www.auchan.ru/v1/partner/petrushka"
+        },
+        {
+          "id": "vkusvill",
+          "name": "ВкусВилл",
+          "logo_url": "https://cdn.petrushka.ru/partners/logos/vkusvill.svg",
+          "delivery_info": {
+            "type": "fast_delivery",
+            "message": "Быстрая доставка от 20 до 60 минут",
+            "raw_data": {
+              "min_minutes": 20,
+              "max_minutes": 60
+            }
+          },
+          "external_url": "https://vkusvill.ru/partner/petrushka_green"
+        },
+        {
+          "id": "victoria",
+          "name": "ВИКТОРИЯ",
+          "logo_url": "https://cdn.petrushka.ru/partners/logos/victoria.svg",
+          "delivery_info": {
+            "type": "nearest_today",
+            "message": "Ближайшая доставка сегодня 17:00–19:00",
+            "raw_data": {
+              "date": "2026-01-27",
+              "time_slot": {
+                "start": "17:00",
+                "end": "19:00"
+              }
+            }
+          },
+          "external_url": "https://victoria.ru/affiliate/petrushka"
+        }
+      ]
+    },
+    "metadata": {
+      "total_count": 15,
+      "limit": 10,
+      "offset": 0,
+      "user_location_used": true,
+      "location": {
+        "latitude": 45.1234,
+        "longitude": 38.9865,
+        "city": "Краснодар"
+      }
+    }
+  }
