@@ -17,7 +17,7 @@
               }
             }
           },
-          "external_url": "https://metro-express.ru/delivery?affiliate_id=petrushka_green"
+          "external_url": "https://online.metro-cc.ru/"
         },
         {
           "id": "ashan",
@@ -34,7 +34,7 @@
               }
             }
           },
-          "external_url": "https://www.auchan.ru/v1/partner/petrushka"
+          "external_url": "https://www.auchan.ru/"
         },
         {
           "id": "vkusvill",
@@ -48,7 +48,7 @@
               "max_minutes": 60
             }
           },
-          "external_url": "https://vkusvill.ru/partner/petrushka_green"
+          "external_url": "https://vkusvill.ru/"
         },
         {
           "id": "victoria",
@@ -65,7 +65,7 @@
               }
             }
           },
-          "external_url": "https://victoria.ru/affiliate/petrushka"
+          "external_url": "https://victoria-group.ru/"
         }
       ]
     },
@@ -80,4 +80,5 @@
         "city": "Краснодар"
       }
     }
+
   }
