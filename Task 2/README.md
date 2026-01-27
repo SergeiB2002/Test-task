@@ -18,4 +18,4 @@ Accept: application/json
 ```
 
 ## 2. Пример ответа API
-Пример ответа на запрос в файле [petrushka_api_get_response](/petrushka_api_get_response.json)
+Пример ответа на запрос в файле [petrushka_api_get_response](/Task%202/petrushka_api_get_response.json)
